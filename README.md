@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i am Dannys Martha Favrillia, frontend developer 👋
 
 <!--
 **dannysmarthafavrillia/dannysmarthafavrillia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
